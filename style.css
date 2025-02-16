@@ -1,0 +1,34 @@
+.title{
+    background-color: palevioletred;
+    color: black;
+    padding: 2px;
+    display: flex;
+    justify-content: center;
+}
+.bodyparts1{
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    width: 270px;
+    height: 420px;
+    display: inline-block;
+}
+.innerparts1{
+    border: solid white 2px;
+    width: 200px;
+    height: 260px;
+    border-radius: 20px;
+    font-size: larger;
+    padding-left: 10px;
+    margin: auto;
+}
+.bodyparts1 h1{
+    text-align: center;
+}
+.bodyparts{
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    margin-top: 30px;
+}
+
